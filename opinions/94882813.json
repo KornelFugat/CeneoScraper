@@ -1,6 +1,5 @@
 [
     {
-        "opinion_id": "12996728",
         "author": "d...n",
         "recommendation": true,
         "stars": 5.0,
@@ -22,10 +21,10 @@
         "post_date": "2020-08-24 14:26:02",
         "purchase_date": "2020-08-19 08:37:27",
         "usefulness": 58,
-        "uselessness": 9
+        "uselessness": 10,
+        "opinion_id": "12996728"
     },
     {
-        "opinion_id": "13033391",
         "author": "Jarosław",
         "recommendation": true,
         "stars": 4.5,
@@ -46,10 +45,10 @@
         "post_date": "2020-09-01 19:50:57",
         "purchase_date": "2020-08-18 07:25:20",
         "usefulness": 9,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13033391"
     },
     {
-        "opinion_id": "14212419",
         "author": "r...5",
         "recommendation": true,
         "stars": 5.0,
@@ -65,10 +64,10 @@
         "post_date": "2021-03-31 21:17:10",
         "purchase_date": "2021-03-11 04:53:32",
         "usefulness": 1,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "14212419"
     },
     {
-        "opinion_id": "13676136",
         "author": "k...i",
         "recommendation": true,
         "stars": 5.0,
@@ -90,11 +89,11 @@
         "verified": true,
         "post_date": "2020-12-29 23:31:29",
         "purchase_date": "2020-12-15 17:57:14",
-        "usefulness": 2,
-        "uselessness": 1
+        "usefulness": 3,
+        "uselessness": 1,
+        "opinion_id": "13676136"
     },
     {
-        "opinion_id": "12838704",
         "author": "Pawel",
         "recommendation": true,
         "stars": 5.0,
@@ -117,10 +116,10 @@
         "post_date": "2020-07-22 18:50:27",
         "purchase_date": "2020-07-08 23:00:10",
         "usefulness": 9,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12838704"
     },
     {
-        "opinion_id": "12980350",
         "author": "f...a",
         "recommendation": true,
         "stars": 4.5,
@@ -131,10 +130,10 @@
         "post_date": "2020-08-20 10:13:18",
         "purchase_date": "2020-08-13 17:40:54",
         "usefulness": 5,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12980350"
     },
     {
-        "opinion_id": "13272299",
         "author": "j...a",
         "recommendation": true,
         "stars": 5.0,
@@ -154,10 +153,10 @@
         "post_date": "2020-10-26 09:02:05",
         "purchase_date": "2020-10-18 14:42:16",
         "usefulness": 7,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13272299"
     },
     {
-        "opinion_id": "14010672",
         "author": "a...s",
         "recommendation": true,
         "stars": 4.0,
@@ -177,10 +176,10 @@
         "post_date": "2021-02-24 13:21:31",
         "purchase_date": "2021-02-17 11:50:40",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14010672"
     },
     {
-        "opinion_id": "13278790",
         "author": "Łukasz",
         "recommendation": true,
         "stars": 5.0,
@@ -203,10 +202,10 @@
         "post_date": "2020-10-27 12:35:48",
         "purchase_date": "2020-10-20 11:04:07",
         "usefulness": 2,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13278790"
     },
     {
-        "opinion_id": "13210694",
         "author": "r...2",
         "recommendation": true,
         "stars": 5.0,
@@ -222,10 +221,10 @@
         "post_date": "2020-10-14 17:21:48",
         "purchase_date": "2020-10-05 16:30:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13210694"
     },
     {
-        "opinion_id": "12936712",
         "author": "k...k",
         "recommendation": true,
         "stars": 4.0,
@@ -241,10 +240,10 @@
         "post_date": "2020-08-11 12:07:36",
         "purchase_date": "2020-08-07 10:11:24",
         "usefulness": 2,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12936712"
     },
     {
-        "opinion_id": "13042813",
         "author": "k...p",
         "recommendation": true,
         "stars": 4.5,
@@ -260,10 +259,10 @@
         "post_date": "2020-09-03 18:20:48",
         "purchase_date": "2020-07-21 23:24:21",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13042813"
     },
     {
-        "opinion_id": "14136541",
         "author": "r...a",
         "recommendation": true,
         "stars": 4.5,
@@ -281,10 +280,10 @@
         "post_date": "2021-03-18 08:42:04",
         "purchase_date": "2021-02-24 16:43:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14136541"
     },
     {
-        "opinion_id": "14149358",
         "author": "s...s",
         "recommendation": true,
         "stars": 5.0,
@@ -304,10 +303,10 @@
         "post_date": "2021-03-20 00:16:55",
         "purchase_date": "2021-03-06 14:03:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14149358"
     },
     {
-        "opinion_id": "14249961",
         "author": "p...1",
         "recommendation": true,
         "stars": 5.0,
@@ -330,10 +329,10 @@
         "post_date": "2021-04-08 06:50:22",
         "purchase_date": "2021-03-30 12:07:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14249961"
     },
     {
-        "opinion_id": "13607743",
         "author": "k...k",
         "recommendation": true,
         "stars": 5.0,
@@ -356,10 +355,10 @@
         "post_date": "2020-12-18 14:53:44",
         "purchase_date": "2020-12-16 08:57:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13607743"
     },
     {
-        "opinion_id": "13052603",
         "author": "bayap92717",
         "recommendation": true,
         "stars": 5.0,
@@ -376,10 +375,10 @@
         "post_date": "2020-09-06 18:57:22",
         "purchase_date": "2020-08-23 09:59:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13052603"
     },
     {
-        "opinion_id": "14089557",
         "author": "a...a",
         "recommendation": true,
         "stars": 5.0,
@@ -390,10 +389,10 @@
         "post_date": "2021-03-10 14:28:23",
         "purchase_date": "2021-03-01 23:01:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14089557"
     },
     {
-        "opinion_id": "13017240",
         "author": "d...9",
         "recommendation": true,
         "stars": 5.0,
@@ -409,10 +408,10 @@
         "post_date": "2020-08-28 11:21:05",
         "purchase_date": "2020-08-24 09:25:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13017240"
     },
     {
-        "opinion_id": "14320929",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -423,10 +422,36 @@
         "post_date": "2021-04-20 10:26:28",
         "purchase_date": "2021-04-13 17:52:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14320929"
     },
     {
-        "opinion_id": "13943065",
+        "author": "h...t",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Продавец отправил быстро, но лучше всех сработал курьер доставки :) Спасибо всё понравилось!",
+        "pros": [
+            "czas pracy na baterii",
+            "dobry ekran",
+            "funkcjonalność",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "płynnie działa",
+            "przeciętny aparat",
+            "szybkość działania",
+            "wielkość",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-22 17:34:38",
+        "purchase_date": "2021-04-19 12:29:22",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14339983"
+    },
+    {
         "author": "o...k",
         "recommendation": true,
         "stars": 5.0,
@@ -441,10 +466,10 @@
         "post_date": "2021-02-12 06:43:42",
         "purchase_date": "2021-01-23 18:03:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13943065"
     },
     {
-        "opinion_id": "13917063",
         "author": "k...8",
         "recommendation": true,
         "stars": 5.0,
@@ -460,10 +485,10 @@
         "post_date": "2021-02-08 12:13:01",
         "purchase_date": "2021-02-03 21:01:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13917063"
     },
     {
-        "opinion_id": "14235695",
         "author": "a...1",
         "recommendation": true,
         "stars": 4.5,
@@ -480,10 +505,10 @@
         "post_date": "2021-04-06 11:14:00",
         "purchase_date": "2021-03-29 14:47:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14235695"
     },
     {
-        "opinion_id": "14001328",
         "author": "f...k",
         "recommendation": true,
         "stars": 5.0,
@@ -499,10 +524,10 @@
         "post_date": "2021-02-22 23:09:16",
         "purchase_date": "2021-02-16 08:23:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14001328"
     },
     {
-        "opinion_id": "13999269",
         "author": "k...5",
         "recommendation": true,
         "stars": 4.5,
@@ -524,10 +549,10 @@
         "post_date": "2021-02-22 17:51:39",
         "purchase_date": "2021-02-15 20:18:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13999269"
     },
     {
-        "opinion_id": "12877442",
         "author": "f...r",
         "recommendation": true,
         "stars": 5.0,
@@ -538,10 +563,10 @@
         "post_date": "2020-07-30 23:09:23",
         "purchase_date": "2020-07-17 17:32:47",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12877442"
     },
     {
-        "opinion_id": "13126716",
         "author": "m...a",
         "recommendation": null,
         "stars": 3.0,
@@ -564,10 +589,10 @@
         "post_date": "2020-09-25 10:24:13",
         "purchase_date": "2020-08-24 21:02:27",
         "usefulness": 4,
-        "uselessness": 6
+        "uselessness": 6,
+        "opinion_id": "13126716"
     },
     {
-        "opinion_id": "13056355",
         "author": "j...i",
         "recommendation": true,
         "stars": 5.0,
@@ -583,10 +608,10 @@
         "post_date": "2020-09-07 21:23:12",
         "purchase_date": "2020-08-26 13:38:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13056355"
     },
     {
-        "opinion_id": "14001293",
         "author": "s...7",
         "recommendation": true,
         "stars": 4.5,
@@ -603,10 +628,10 @@
         "post_date": "2021-02-22 22:58:00",
         "purchase_date": "2021-02-02 19:24:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14001293"
     },
     {
-        "opinion_id": "13974449",
         "author": "natalik28",
         "recommendation": true,
         "stars": 5.0,
@@ -629,10 +654,10 @@
         "post_date": "2021-02-17 19:29:13",
         "purchase_date": "2021-01-26 14:33:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13974449"
     },
     {
-        "opinion_id": "12820865",
         "author": "b...z",
         "recommendation": true,
         "stars": 5.0,
@@ -648,10 +673,10 @@
         "post_date": "2020-07-17 20:14:45",
         "purchase_date": "2020-07-03 18:00:24",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12820865"
     },
     {
-        "opinion_id": "13776375",
         "author": "j...a",
         "recommendation": true,
         "stars": 5.0,
@@ -667,10 +692,10 @@
         "post_date": "2021-01-15 08:24:15",
         "purchase_date": "2020-12-15 15:58:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13776375"
     },
     {
-        "opinion_id": "13889205",
         "author": "a...7",
         "recommendation": true,
         "stars": 5.0,
@@ -686,10 +711,24 @@
         "post_date": "2021-02-03 12:26:53",
         "purchase_date": "2021-01-29 15:32:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13889205"
     },
     {
-        "opinion_id": "14073101",
+        "author": "s...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Stos. ceny do możliwości b.dobry. Ocena baterii później.",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-22 10:47:18",
+        "purchase_date": "2021-04-15 11:58:15",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14337357"
+    },
+    {
         "author": "m...7",
         "recommendation": true,
         "stars": 5.0,
@@ -712,10 +751,10 @@
         "post_date": "2021-03-07 13:48:56",
         "purchase_date": "2021-02-10 17:38:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14073101"
     },
     {
-        "opinion_id": "14177594",
         "author": "p...i",
         "recommendation": true,
         "stars": 4.0,
@@ -731,10 +770,10 @@
         "post_date": "2021-03-25 10:33:24",
         "purchase_date": "2021-03-18 10:51:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14177594"
     },
     {
-        "opinion_id": "14274119",
         "author": "m...7",
         "recommendation": true,
         "stars": 5.0,
@@ -750,10 +789,10 @@
         "post_date": "2021-04-12 13:38:38",
         "purchase_date": "2021-03-23 20:38:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14274119"
     },
     {
-        "opinion_id": "13127761",
         "author": "d...1",
         "recommendation": true,
         "stars": 5.0,
@@ -769,10 +808,10 @@
         "post_date": "2020-09-25 13:21:29",
         "purchase_date": "2020-08-24 13:18:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13127761"
     },
     {
-        "opinion_id": "12818511",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -783,10 +822,10 @@
         "post_date": "2020-07-17 11:42:02",
         "purchase_date": "2020-07-01 09:28:05",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12818511"
     },
     {
-        "opinion_id": "13761723",
         "author": "a...i",
         "recommendation": true,
         "stars": 5.0,
@@ -802,10 +841,10 @@
         "post_date": "2021-01-13 12:45:33",
         "purchase_date": "2021-01-09 18:28:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13761723"
     },
     {
-        "opinion_id": "14280418",
         "author": "m...9",
         "recommendation": true,
         "stars": 5.0,
@@ -816,10 +855,10 @@
         "post_date": "2021-04-13 15:01:01",
         "purchase_date": "2021-04-07 08:02:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14280418"
     },
     {
-        "opinion_id": "14181010",
         "author": "r...5",
         "recommendation": true,
         "stars": 4.5,
@@ -835,10 +874,10 @@
         "post_date": "2021-03-25 20:18:23",
         "purchase_date": "2021-03-07 20:19:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14181010"
     },
     {
-        "opinion_id": "13272617",
         "author": "m...3",
         "recommendation": true,
         "stars": 5.0,
@@ -849,10 +888,10 @@
         "post_date": "2020-10-26 10:05:59",
         "purchase_date": "2020-10-11 10:10:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13272617"
     },
     {
-        "opinion_id": "14164971",
         "author": "p...s",
         "recommendation": true,
         "stars": 5.0,
@@ -868,10 +907,10 @@
         "post_date": "2021-03-23 20:30:14",
         "purchase_date": "2021-03-09 17:46:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14164971"
     },
     {
-        "opinion_id": "13506614",
         "author": "w...i",
         "recommendation": true,
         "stars": 5.0,
@@ -887,10 +926,10 @@
         "post_date": "2020-12-04 15:25:54",
         "purchase_date": "2020-11-27 08:03:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13506614"
     },
     {
-        "opinion_id": "13663301",
         "author": "j...s",
         "recommendation": true,
         "stars": 5.0,
@@ -913,10 +952,10 @@
         "post_date": "2020-12-28 18:11:35",
         "purchase_date": "2020-11-27 23:44:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13663301"
     },
     {
-        "opinion_id": "12907242",
         "author": "0...0",
         "recommendation": true,
         "stars": 5.0,
@@ -932,10 +971,10 @@
         "post_date": "2020-08-05 18:21:50",
         "purchase_date": "2020-07-29 20:59:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12907242"
     },
     {
-        "opinion_id": "13591209",
         "author": "t...0",
         "recommendation": true,
         "stars": 5.0,
@@ -951,10 +990,10 @@
         "post_date": "2020-12-16 15:21:07",
         "purchase_date": "2020-12-03 15:56:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13591209"
     },
     {
-        "opinion_id": "13893421",
         "author": "a...k",
         "recommendation": true,
         "stars": 4.0,
@@ -965,10 +1004,10 @@
         "post_date": "2021-02-03 21:39:47",
         "purchase_date": "2021-01-20 15:37:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13893421"
     },
     {
-        "opinion_id": "13622323",
         "author": "i...y",
         "recommendation": true,
         "stars": 5.0,
@@ -983,10 +1022,10 @@
         "post_date": "2020-12-21 12:52:12",
         "purchase_date": "2020-12-15 10:27:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13622323"
     },
     {
-        "opinion_id": "13612551",
         "author": "m...k",
         "recommendation": true,
         "stars": 5.0,
@@ -1002,10 +1041,10 @@
         "post_date": "2020-12-18 22:49:49",
         "purchase_date": "2020-12-09 19:45:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13612551"
     },
     {
-        "opinion_id": "14131641",
         "author": "w...m",
         "recommendation": true,
         "stars": 5.0,
@@ -1021,10 +1060,10 @@
         "post_date": "2021-03-17 14:48:49",
         "purchase_date": "2021-03-10 11:54:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14131641"
     },
     {
-        "opinion_id": "13913431",
         "author": "k...1",
         "recommendation": null,
         "stars": 3.5,
@@ -1040,10 +1079,10 @@
         "post_date": "2021-02-07 12:21:17",
         "purchase_date": "2021-01-27 12:34:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13913431"
     },
     {
-        "opinion_id": "13605027",
         "author": "k...1",
         "recommendation": true,
         "stars": 4.5,
@@ -1059,10 +1098,10 @@
         "post_date": "2020-12-18 10:31:55",
         "purchase_date": "2020-11-27 19:58:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13605027"
     },
     {
-        "opinion_id": "13757132",
         "author": "b...d",
         "recommendation": true,
         "stars": 5.0,
@@ -1084,10 +1123,10 @@
         "post_date": "2021-01-12 20:46:41",
         "purchase_date": "2020-11-28 22:01:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13757132"
     },
     {
-        "opinion_id": "13663400",
         "author": "m...d",
         "recommendation": true,
         "stars": 5.0,
@@ -1103,10 +1142,10 @@
         "post_date": "2020-12-28 18:21:58",
         "purchase_date": "2020-11-28 10:34:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13663400"
     },
     {
-        "opinion_id": "13125340",
         "author": "j...6",
         "recommendation": true,
         "stars": 4.0,
@@ -1122,10 +1161,10 @@
         "post_date": "2020-09-24 23:33:15",
         "purchase_date": "2020-09-13 20:06:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13125340"
     },
     {
-        "opinion_id": "14288796",
         "author": "n...5",
         "recommendation": true,
         "stars": 5.0,
@@ -1141,10 +1180,10 @@
         "post_date": "2021-04-14 16:09:46",
         "purchase_date": "2021-04-01 16:15:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14288796"
     },
     {
-        "opinion_id": "14158891",
         "author": "Oksana",
         "recommendation": true,
         "stars": 5.0,
@@ -1160,10 +1199,10 @@
         "post_date": "2021-03-22 18:48:55",
         "purchase_date": "2021-02-20 12:42:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14158891"
     },
     {
-        "opinion_id": "13925614",
         "author": "e...n",
         "recommendation": true,
         "stars": 5.0,
@@ -1174,10 +1213,10 @@
         "post_date": "2021-02-09 20:03:25",
         "purchase_date": "2021-01-26 12:01:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13925614"
     },
     {
-        "opinion_id": "13293020",
         "author": "l...l",
         "recommendation": true,
         "stars": 5.0,
@@ -1193,10 +1232,10 @@
         "post_date": "2020-10-29 20:00:49",
         "purchase_date": "2020-10-27 20:02:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13293020"
     },
     {
-        "opinion_id": "13303684",
         "author": "k...k",
         "recommendation": true,
         "stars": 5.0,
@@ -1207,10 +1246,10 @@
         "post_date": "2020-10-31 12:19:23",
         "purchase_date": "2020-10-21 18:12:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13303684"
     },
     {
-        "opinion_id": "14190026",
         "author": "h...i",
         "recommendation": true,
         "stars": 5.0,
@@ -1221,10 +1260,10 @@
         "post_date": "2021-03-27 15:32:20",
         "purchase_date": "2021-03-24 09:36:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14190026"
     },
     {
-        "opinion_id": "13600364",
         "author": "m...i",
         "recommendation": true,
         "stars": 5.0,
@@ -1244,10 +1283,10 @@
         "post_date": "2020-12-17 17:34:01",
         "purchase_date": "2020-11-16 21:00:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13600364"
     },
     {
-        "opinion_id": "13688421",
         "author": "g...9",
         "recommendation": true,
         "stars": 5.0,
@@ -1258,10 +1297,10 @@
         "post_date": "2020-12-31 09:08:55",
         "purchase_date": "2020-12-14 19:01:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13688421"
     },
     {
-        "opinion_id": "13144725",
         "author": "t...k",
         "recommendation": true,
         "stars": 5.0,
@@ -1277,10 +1316,10 @@
         "post_date": "2020-09-30 11:54:58",
         "purchase_date": "2020-09-28 10:26:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13144725"
     },
     {
-        "opinion_id": "13059924",
         "author": "b...s",
         "recommendation": true,
         "stars": 5.0,
@@ -1296,10 +1335,10 @@
         "post_date": "2020-09-08 19:25:46",
         "purchase_date": "2020-09-01 11:36:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13059924"
     },
     {
-        "opinion_id": "13015536",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1321,10 +1360,10 @@
         "post_date": "2020-08-27 22:04:30",
         "purchase_date": "2020-08-23 21:39:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13015536"
     },
     {
-        "opinion_id": "13126880",
         "author": "a...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1335,10 +1374,10 @@
         "post_date": "2020-09-25 10:52:17",
         "purchase_date": "2020-09-16 12:08:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13126880"
     },
     {
-        "opinion_id": "14218767",
         "author": "a...2",
         "recommendation": true,
         "stars": 4.5,
@@ -1354,10 +1393,10 @@
         "post_date": "2021-04-01 20:02:44",
         "purchase_date": "2021-03-21 10:15:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14218767"
     },
     {
-        "opinion_id": "13204278",
         "author": "e...a",
         "recommendation": true,
         "stars": 4.5,
@@ -1374,10 +1413,10 @@
         "post_date": "2020-10-13 19:06:10",
         "purchase_date": "2020-08-30 16:26:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13204278"
     },
     {
-        "opinion_id": "13105977",
         "author": "s...i",
         "recommendation": true,
         "stars": 5.0,
@@ -1391,10 +1430,10 @@
         "post_date": "2020-09-20 19:41:23",
         "purchase_date": "2020-08-24 13:10:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13105977"
     },
     {
-        "opinion_id": "12881098",
         "author": "r...w",
         "recommendation": true,
         "stars": 5.0,
@@ -1405,10 +1444,10 @@
         "post_date": "2020-07-31 15:10:15",
         "purchase_date": "2020-07-24 22:20:29",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12881098"
     },
     {
-        "opinion_id": "14029730",
         "author": "1...m",
         "recommendation": true,
         "stars": 5.0,
@@ -1422,10 +1461,10 @@
         "post_date": "2021-02-26 22:13:05",
         "purchase_date": "2021-02-08 16:12:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14029730"
     },
     {
-        "opinion_id": "13937389",
         "author": "Łukasz",
         "recommendation": true,
         "stars": 5.0,
@@ -1441,10 +1480,10 @@
         "post_date": "2021-02-11 13:14:26",
         "purchase_date": "2021-02-06 12:23:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13937389"
     },
     {
-        "opinion_id": "13842917",
         "author": "d...r",
         "recommendation": true,
         "stars": 5.0,
@@ -1460,10 +1499,10 @@
         "post_date": "2021-01-26 21:25:30",
         "purchase_date": "2021-01-17 18:04:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13842917"
     },
     {
-        "opinion_id": "14295568",
         "author": "j...z",
         "recommendation": true,
         "stars": 5.0,
@@ -1479,10 +1518,10 @@
         "post_date": "2021-04-15 12:03:47",
         "purchase_date": "2021-04-10 09:28:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14295568"
     },
     {
-        "opinion_id": "14124134",
         "author": "a...o",
         "recommendation": true,
         "stars": 5.0,
@@ -1498,10 +1537,10 @@
         "post_date": "2021-03-16 18:15:33",
         "purchase_date": "2021-02-28 19:44:31",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14124134"
     },
     {
-        "opinion_id": "13109655",
         "author": "m...0",
         "recommendation": true,
         "stars": 5.0,
@@ -1512,10 +1551,10 @@
         "post_date": "2020-09-21 19:10:59",
         "purchase_date": "2020-08-24 18:46:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13109655"
     },
     {
-        "opinion_id": "13496687",
         "author": "r...i",
         "recommendation": true,
         "stars": 4.5,
@@ -1531,10 +1570,10 @@
         "post_date": "2020-12-03 13:09:14",
         "purchase_date": "2020-11-27 11:02:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13496687"
     },
     {
-        "opinion_id": "14030678",
         "author": "j...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1556,10 +1595,10 @@
         "post_date": "2021-02-27 07:57:53",
         "purchase_date": "2021-02-13 09:28:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14030678"
     },
     {
-        "opinion_id": "12964354",
         "author": "l...1",
         "recommendation": true,
         "stars": 5.0,
@@ -1570,10 +1609,24 @@
         "post_date": "2020-08-17 13:45:03",
         "purchase_date": "2020-08-06 09:38:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12964354"
     },
     {
-        "opinion_id": "14321819",
+        "author": "j...a",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Polecam",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-21 22:08:05",
+        "purchase_date": "2021-04-07 19:30:39",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14334323"
+    },
+    {
         "author": "B",
         "recommendation": true,
         "stars": 5.0,
@@ -1593,10 +1646,10 @@
         "post_date": "2021-04-20 11:45:25",
         "purchase_date": "2021-04-19 10:59:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14321819"
     },
     {
-        "opinion_id": "13916167",
         "author": "r...k",
         "recommendation": true,
         "stars": 5.0,
@@ -1607,10 +1660,10 @@
         "post_date": "2021-02-08 10:33:37",
         "purchase_date": "2021-02-01 20:20:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13916167"
     },
     {
-        "opinion_id": "13535192",
         "author": "a...8",
         "recommendation": true,
         "stars": 5.0,
@@ -1626,10 +1679,10 @@
         "post_date": "2020-12-09 10:28:59",
         "purchase_date": "2020-11-25 19:45:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13535192"
     },
     {
-        "opinion_id": "13440268",
         "author": "e...n",
         "recommendation": true,
         "stars": 5.0,
@@ -1645,10 +1698,10 @@
         "post_date": "2020-11-24 21:55:04",
         "purchase_date": "2020-11-11 09:50:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13440268"
     },
     {
-        "opinion_id": "13205997",
         "author": "w...8",
         "recommendation": true,
         "stars": 5.0,
@@ -1659,10 +1712,10 @@
         "post_date": "2020-10-13 22:47:17",
         "purchase_date": "2020-09-18 17:10:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13205997"
     },
     {
-        "opinion_id": "14308187",
         "author": "k...g",
         "recommendation": true,
         "stars": 5.0,
@@ -1673,10 +1726,10 @@
         "post_date": "2021-04-16 22:00:04",
         "purchase_date": "2021-04-09 15:10:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14308187"
     },
     {
-        "opinion_id": "13520461",
         "author": "p...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1690,10 +1743,10 @@
         "post_date": "2020-12-07 18:25:11",
         "purchase_date": "2020-11-07 14:47:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13520461"
     },
     {
-        "opinion_id": "13176939",
         "author": "Adam",
         "recommendation": true,
         "stars": 5.0,
@@ -1709,10 +1762,10 @@
         "post_date": "2020-10-08 12:08:17",
         "purchase_date": "2020-10-05 01:46:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13176939"
     },
     {
-        "opinion_id": "13098582",
         "author": "b...k",
         "recommendation": true,
         "stars": 5.0,
@@ -1728,10 +1781,10 @@
         "post_date": "2020-09-18 09:23:22",
         "purchase_date": "2020-08-30 19:27:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13098582"
     },
     {
-        "opinion_id": "13094413",
         "author": "Beata",
         "recommendation": true,
         "stars": 5.0,
@@ -1742,10 +1795,10 @@
         "post_date": "2020-09-17 09:45:18",
         "purchase_date": "2020-08-30 20:34:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13094413"
     },
     {
-        "opinion_id": "12852514",
         "author": "d...1",
         "recommendation": true,
         "stars": 5.0,
@@ -1761,10 +1814,10 @@
         "post_date": "2020-07-24 23:44:42",
         "purchase_date": "2020-07-04 11:29:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12852514"
     },
     {
-        "opinion_id": "14178451",
         "author": "c...i",
         "recommendation": true,
         "stars": 5.0,
@@ -1775,10 +1828,10 @@
         "post_date": "2021-03-25 12:00:53",
         "purchase_date": "2021-03-21 16:47:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14178451"
     },
     {
-        "opinion_id": "14309631",
         "author": "j...9",
         "recommendation": true,
         "stars": 4.0,
@@ -1794,10 +1847,10 @@
         "post_date": "2021-04-17 10:05:24",
         "purchase_date": "2021-04-12 14:02:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14309631"
     },
     {
-        "opinion_id": "14277952",
         "author": "a...8",
         "recommendation": true,
         "stars": 5.0,
@@ -1808,10 +1861,10 @@
         "post_date": "2021-04-13 09:41:39",
         "purchase_date": "2021-03-23 15:35:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14277952"
     },
     {
-        "opinion_id": "14224882",
         "author": "t...i",
         "recommendation": true,
         "stars": 5.0,
@@ -1827,10 +1880,10 @@
         "post_date": "2021-04-02 20:31:14",
         "purchase_date": "2021-03-01 18:51:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14224882"
     },
     {
-        "opinion_id": "14201345",
         "author": "p...0",
         "recommendation": true,
         "stars": 5.0,
@@ -1850,10 +1903,10 @@
         "post_date": "2021-03-30 11:29:19",
         "purchase_date": "2021-03-24 14:45:24",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14201345"
     },
     {
-        "opinion_id": "14173118",
         "author": "u...p",
         "recommendation": true,
         "stars": 5.0,
@@ -1864,10 +1917,10 @@
         "post_date": "2021-03-24 18:29:31",
         "purchase_date": "2021-02-21 21:16:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14173118"
     },
     {
-        "opinion_id": "14162039",
         "author": "P...w",
         "recommendation": true,
         "stars": 5.0,
@@ -1883,10 +1936,10 @@
         "post_date": "2021-03-23 11:50:43",
         "purchase_date": "2021-03-13 00:36:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14162039"
     },
     {
-        "opinion_id": "13895295",
         "author": "k...k",
         "recommendation": true,
         "stars": 4.5,
@@ -1909,10 +1962,10 @@
         "post_date": "2021-02-04 07:54:28",
         "purchase_date": "2021-01-04 13:19:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13895295"
     },
     {
-        "opinion_id": "13739362",
         "author": "g...1",
         "recommendation": true,
         "stars": 5.0,
@@ -1923,10 +1976,10 @@
         "post_date": "2021-01-08 21:28:18",
         "purchase_date": "2021-01-05 22:00:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13739362"
     },
     {
-        "opinion_id": "13709812",
         "author": "b...l",
         "recommendation": true,
         "stars": 4.0,
@@ -1937,10 +1990,10 @@
         "post_date": "2021-01-04 22:06:45",
         "purchase_date": "2020-12-15 00:40:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13709812"
     },
     {
-        "opinion_id": "13706443",
         "author": "w...o",
         "recommendation": true,
         "stars": 5.0,
@@ -1956,10 +2009,10 @@
         "post_date": "2021-01-04 13:31:00",
         "purchase_date": "2020-12-02 10:27:46",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13706443"
     },
     {
-        "opinion_id": "13432000",
         "author": "Marcin Tymków",
         "recommendation": true,
         "stars": 5.0,
@@ -1975,10 +2028,10 @@
         "post_date": "2020-11-23 21:27:44",
         "purchase_date": "2020-11-12 13:45:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13432000"
     },
     {
-        "opinion_id": "13132453",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -1994,10 +2047,10 @@
         "post_date": "2020-09-27 00:06:36",
         "purchase_date": "2020-08-26 11:33:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13132453"
     },
     {
-        "opinion_id": "13105083",
         "author": "b...2",
         "recommendation": true,
         "stars": 5.0,
@@ -2008,10 +2061,10 @@
         "post_date": "2020-09-20 13:35:45",
         "purchase_date": "2020-08-19 16:06:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13105083"
     },
     {
-        "opinion_id": "13104833",
         "author": "d...a",
         "recommendation": true,
         "stars": 5.0,
@@ -2027,10 +2080,10 @@
         "post_date": "2020-09-20 10:43:12",
         "purchase_date": "2020-09-07 15:54:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13104833"
     },
     {
-        "opinion_id": "13072826",
         "author": "l...t",
         "recommendation": null,
         "stars": 3.5,
@@ -2043,10 +2096,10 @@
         "post_date": "2020-09-11 11:16:13",
         "purchase_date": "2020-09-04 13:44:26",
         "usefulness": 2,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13072826"
     },
     {
-        "opinion_id": "13803366",
         "author": "s...a",
         "recommendation": null,
         "stars": 3.5,
@@ -2067,10 +2120,10 @@
         "post_date": "2021-01-20 08:11:49",
         "purchase_date": "2021-01-04 23:35:26",
         "usefulness": 1,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13803366"
     },
     {
-        "opinion_id": "13153422",
         "author": "p...a",
         "recommendation": true,
         "stars": 4.0,
@@ -2081,10 +2134,10 @@
         "post_date": "2020-10-02 11:53:25",
         "purchase_date": "2020-09-25 13:50:49",
         "usefulness": 1,
-        "uselessness": 3
+        "uselessness": 3,
+        "opinion_id": "13153422"
     },
     {
-        "opinion_id": "12921964",
         "author": "m...1",
         "recommendation": true,
         "stars": 4.5,
@@ -2098,10 +2151,10 @@
         "post_date": "2020-08-07 21:44:16",
         "purchase_date": "2020-07-29 12:15:48",
         "usefulness": 5,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12921964"
     },
     {
-        "opinion_id": "13805476",
         "author": "d...7",
         "recommendation": true,
         "stars": 5.0,
@@ -2115,10 +2168,29 @@
         "post_date": "2021-01-20 11:51:34",
         "purchase_date": "2021-01-09 18:53:16",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13805476"
     },
     {
-        "opinion_id": "14266529",
+        "author": "k...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Telefon kupiony dla babci, prosta konfiguracja, duży ekran, intuicyjny interfejs jak wszystkie telefony Xiaomi, parametry wystarczające dla osoby która korzysta z niewielu aplikacji, a telefon jest jej potrzebny głównie do dzwonienia. Do tego niska cena, więc nie mam za co odejmować nawet połowy punktu.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 21:47:36",
+        "purchase_date": "2021-04-09 11:57:39",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14349839"
+    },
+    {
         "author": "m...5",
         "recommendation": null,
         "stars": 3.0,
@@ -2129,10 +2201,10 @@
         "post_date": "2021-04-10 08:16:46",
         "purchase_date": "2021-03-27 12:55:17",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14266529"
     },
     {
-        "opinion_id": "12975813",
         "author": "b...a",
         "recommendation": true,
         "stars": 5.0,
@@ -2151,10 +2223,10 @@
         "post_date": "2020-08-19 14:14:43",
         "purchase_date": "2020-08-12 18:43:15",
         "usefulness": 3,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12975813"
     },
     {
-        "opinion_id": "13329056",
         "author": "M...8",
         "recommendation": true,
         "stars": 4.0,
@@ -2175,10 +2247,26 @@
         "post_date": "2020-11-05 17:56:15",
         "purchase_date": "2020-10-05 15:27:17",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13329056"
     },
     {
-        "opinion_id": "13125736",
+        "author": "j...e",
+        "recommendation": false,
+        "stars": 2.5,
+        "content": "Cudowny lepszy od samsubow za 50000 tys",
+        "pros": [
+            "łatwość obsługi"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-03-17 19:58:49",
+        "purchase_date": "2021-03-03 11:41:56",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14133358"
+    },
+    {
         "author": "g...o",
         "recommendation": true,
         "stars": 5.0,
@@ -2194,10 +2282,10 @@
         "post_date": "2020-09-25 07:25:57",
         "purchase_date": "2020-08-24 08:48:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13125736"
     },
     {
-        "opinion_id": "13084828",
         "author": "k...i",
         "recommendation": true,
         "stars": 5.0,
@@ -2213,10 +2301,10 @@
         "post_date": "2020-09-15 12:32:00",
         "purchase_date": "2020-09-08 13:43:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13084828"
     },
     {
-        "opinion_id": "13087601",
         "author": "e...1",
         "recommendation": true,
         "stars": 5.0,
@@ -2232,10 +2320,10 @@
         "post_date": "2020-09-15 21:47:22",
         "purchase_date": "2020-09-03 14:54:11",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13087601"
     },
     {
-        "opinion_id": "13125043",
         "author": "l...2",
         "recommendation": true,
         "stars": 4.0,
@@ -2246,26 +2334,10 @@
         "post_date": "2020-09-24 21:54:39",
         "purchase_date": "2020-09-17 13:56:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13125043"
     },
     {
-        "opinion_id": "14133358",
-        "author": "j...e",
-        "recommendation": false,
-        "stars": 2.5,
-        "content": "Cudowny lepszy od samsubow za 50000 tys",
-        "pros": [
-            "łatwość obsługi"
-        ],
-        "cons": [],
-        "verified": true,
-        "post_date": "2021-03-17 19:58:49",
-        "purchase_date": "2021-03-03 11:41:56",
-        "usefulness": 0,
-        "uselessness": 0
-    },
-    {
-        "opinion_id": "12950986",
         "author": "m...k",
         "recommendation": true,
         "stars": 5.0,
@@ -2281,10 +2353,10 @@
         "post_date": "2020-08-13 18:01:53",
         "purchase_date": "2020-08-11 10:36:51",
         "usefulness": 2,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12950986"
     },
     {
-        "opinion_id": "13183681",
         "author": "j...k",
         "recommendation": true,
         "stars": 5.0,
@@ -2302,10 +2374,10 @@
         "post_date": "2020-10-09 17:47:39",
         "purchase_date": "2020-09-16 14:47:55",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "13183681"
     },
     {
-        "opinion_id": "13408947",
         "author": "e...k",
         "recommendation": true,
         "stars": 5.0,
@@ -2316,10 +2388,10 @@
         "post_date": "2020-11-19 16:59:13",
         "purchase_date": "2020-11-12 17:36:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13408947"
     },
     {
-        "opinion_id": "13470284",
         "author": "mlewandowski8",
         "recommendation": true,
         "stars": 5.0,
@@ -2340,10 +2412,10 @@
         "post_date": "2020-11-30 10:28:09",
         "purchase_date": "2020-11-18 09:02:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13470284"
     },
     {
-        "opinion_id": "13069370",
         "author": "d...h",
         "recommendation": true,
         "stars": 5.0,
@@ -2359,10 +2431,10 @@
         "post_date": "2020-09-10 15:19:36",
         "purchase_date": "2020-09-07 14:35:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13069370"
     },
     {
-        "opinion_id": "14265397",
         "author": "Jaroslaw",
         "recommendation": true,
         "stars": 5.0,
@@ -2382,10 +2454,10 @@
         "post_date": "2021-04-09 21:27:27",
         "purchase_date": "2021-03-30 10:56:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14265397"
     },
     {
-        "opinion_id": "12864309",
         "author": "m...1",
         "recommendation": true,
         "stars": 4.5,
@@ -2396,10 +2468,10 @@
         "post_date": "2020-07-28 20:47:00",
         "purchase_date": "2020-07-21 20:59:05",
         "usefulness": 2,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12864309"
     },
     {
-        "opinion_id": "13314447",
         "author": "m...1",
         "recommendation": true,
         "stars": 5.0,
@@ -2415,10 +2487,10 @@
         "post_date": "2020-11-03 11:14:45",
         "purchase_date": "2020-10-28 20:02:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13314447"
     },
     {
-        "opinion_id": "13460428",
         "author": "t...7",
         "recommendation": true,
         "stars": 5.0,
@@ -2441,10 +2513,10 @@
         "post_date": "2020-11-27 14:29:08",
         "purchase_date": "2020-11-25 21:32:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13460428"
     },
     {
-        "opinion_id": "14072720",
         "author": "s...o",
         "recommendation": true,
         "stars": 5.0,
@@ -2460,10 +2532,10 @@
         "post_date": "2021-03-07 10:42:59",
         "purchase_date": "2021-02-10 13:09:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14072720"
     },
     {
-        "opinion_id": "14119048",
         "author": "j...y",
         "recommendation": true,
         "stars": 5.0,
@@ -2483,10 +2555,10 @@
         "post_date": "2021-03-15 21:18:33",
         "purchase_date": "2021-02-23 08:21:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14119048"
     },
     {
-        "opinion_id": "13001743",
         "author": "p...i",
         "recommendation": true,
         "stars": 5.0,
@@ -2502,10 +2574,10 @@
         "post_date": "2020-08-25 14:40:07",
         "purchase_date": "2020-08-18 12:28:29",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13001743"
     },
     {
-        "opinion_id": "13274545",
         "author": "o...0",
         "recommendation": true,
         "stars": 5.0,
@@ -2516,10 +2588,10 @@
         "post_date": "2020-10-26 17:17:25",
         "purchase_date": "2020-09-23 10:28:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13274545"
     },
     {
-        "opinion_id": "13092007",
         "author": "m...c",
         "recommendation": true,
         "stars": 5.0,
@@ -2535,10 +2607,10 @@
         "post_date": "2020-09-16 19:55:16",
         "purchase_date": "2020-09-10 18:05:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13092007"
     },
     {
-        "opinion_id": "13266871",
         "author": "s...1",
         "recommendation": true,
         "stars": 5.0,
@@ -2549,10 +2621,10 @@
         "post_date": "2020-10-24 05:58:36",
         "purchase_date": "2020-10-13 06:27:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13266871"
     },
     {
-        "opinion_id": "13957906",
         "author": "z...r",
         "recommendation": true,
         "stars": 5.0,
@@ -2574,10 +2646,10 @@
         "post_date": "2021-02-15 14:29:04",
         "purchase_date": "2021-02-08 15:13:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13957906"
     },
     {
-        "opinion_id": "13068768",
         "author": "k...a",
         "recommendation": true,
         "stars": 5.0,
@@ -2593,10 +2665,10 @@
         "post_date": "2020-09-10 13:02:12",
         "purchase_date": "2020-09-07 12:49:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13068768"
     },
     {
-        "opinion_id": "13176986",
         "author": "k...i",
         "recommendation": true,
         "stars": 5.0,
@@ -2618,10 +2690,10 @@
         "post_date": "2020-10-08 12:13:15",
         "purchase_date": "2020-10-04 21:25:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13176986"
     },
     {
-        "opinion_id": "13668514",
         "author": "n...3",
         "recommendation": true,
         "stars": 5.0,
@@ -2644,10 +2716,10 @@
         "post_date": "2020-12-29 09:50:33",
         "purchase_date": "2020-11-29 14:45:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13668514"
     },
     {
-        "opinion_id": "13668457",
         "author": "l...4",
         "recommendation": true,
         "stars": 5.0,
@@ -2663,10 +2735,10 @@
         "post_date": "2020-12-29 09:44:58",
         "purchase_date": "2020-11-28 07:35:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13668457"
     },
     {
-        "opinion_id": "14236461",
         "author": "P...k",
         "recommendation": true,
         "stars": 5.0,
@@ -2677,10 +2749,10 @@
         "post_date": "2021-04-06 12:36:29",
         "purchase_date": "2021-03-29 11:31:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14236461"
     },
     {
-        "opinion_id": "13365323",
         "author": "l...1",
         "recommendation": true,
         "stars": 5.0,
@@ -2700,10 +2772,10 @@
         "post_date": "2020-11-12 14:07:25",
         "purchase_date": "2020-11-07 18:45:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13365323"
     },
     {
-        "opinion_id": "14126533",
         "author": "Rico",
         "recommendation": true,
         "stars": 4.0,
@@ -2719,10 +2791,10 @@
         "post_date": "2021-03-16 22:26:54",
         "purchase_date": "2021-02-19 16:06:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14126533"
     },
     {
-        "opinion_id": "13776378",
         "author": "j...a",
         "recommendation": true,
         "stars": 5.0,
@@ -2738,10 +2810,10 @@
         "post_date": "2021-01-15 08:25:21",
         "purchase_date": "2020-12-15 15:58:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13776378"
     },
     {
-        "opinion_id": "13109140",
         "author": "i...a",
         "recommendation": true,
         "stars": 5.0,
@@ -2752,10 +2824,10 @@
         "post_date": "2020-09-21 14:56:01",
         "purchase_date": "2020-08-19 23:05:19",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13109140"
     },
     {
-        "opinion_id": "12788012",
         "author": "M...1",
         "recommendation": true,
         "stars": 5.0,
@@ -2771,10 +2843,10 @@
         "post_date": "2020-07-10 12:16:17",
         "purchase_date": "2020-07-03 16:36:24",
         "usefulness": 3,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12788012"
     },
     {
-        "opinion_id": "13441778",
         "author": "a...3",
         "recommendation": true,
         "stars": 4.5,
@@ -2790,10 +2862,10 @@
         "post_date": "2020-11-25 07:30:18",
         "purchase_date": "2020-11-14 16:01:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13441778"
     },
     {
-        "opinion_id": "13125594",
         "author": "r...1",
         "recommendation": true,
         "stars": 4.5,
@@ -2809,10 +2881,10 @@
         "post_date": "2020-09-25 06:39:25",
         "purchase_date": "2020-08-23 23:50:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13125594"
     },
     {
-        "opinion_id": "13480580",
         "author": "f...m",
         "recommendation": true,
         "stars": 5.0,
@@ -2832,10 +2904,10 @@
         "post_date": "2020-12-01 17:53:56",
         "purchase_date": "2020-11-26 10:02:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13480580"
     },
     {
-        "opinion_id": "13524513",
         "author": "h...3",
         "recommendation": true,
         "stars": 5.0,
@@ -2858,10 +2930,10 @@
         "post_date": "2020-12-08 10:20:47",
         "purchase_date": "2020-11-26 07:32:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13524513"
     },
     {
-        "opinion_id": "13023589",
         "author": "m...a",
         "recommendation": true,
         "stars": 4.0,
@@ -2879,10 +2951,10 @@
         "post_date": "2020-08-30 09:47:16",
         "purchase_date": "2020-08-09 15:00:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13023589"
     },
     {
-        "opinion_id": "13468195",
         "author": "m...i",
         "recommendation": true,
         "stars": 4.0,
@@ -2898,10 +2970,10 @@
         "post_date": "2020-11-29 15:53:02",
         "purchase_date": "2020-10-30 21:36:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13468195"
     },
     {
-        "opinion_id": "13219461",
         "author": "6...4",
         "recommendation": true,
         "stars": 4.0,
@@ -2917,10 +2989,10 @@
         "post_date": "2020-10-15 14:48:15",
         "purchase_date": "2020-10-12 10:03:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13219461"
     },
     {
-        "opinion_id": "14316610",
         "author": "a...8",
         "recommendation": true,
         "stars": 5.0,
@@ -2936,10 +3008,10 @@
         "post_date": "2021-04-19 14:42:59",
         "purchase_date": "2021-04-13 22:26:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14316610"
     },
     {
-        "opinion_id": "13015309",
         "author": "m...i",
         "recommendation": true,
         "stars": 5.0,
@@ -2955,10 +3027,10 @@
         "post_date": "2020-08-27 21:29:47",
         "purchase_date": "2020-08-14 11:12:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13015309"
     },
     {
-        "opinion_id": "13479016",
         "author": "K...8",
         "recommendation": true,
         "stars": 5.0,
@@ -2980,10 +3052,10 @@
         "post_date": "2020-12-01 14:24:21",
         "purchase_date": "2020-11-28 12:29:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13479016"
     },
     {
-        "opinion_id": "12869530",
         "author": "r...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3004,10 +3076,10 @@
         "post_date": "2020-07-29 18:42:23",
         "purchase_date": "2020-07-24 13:12:26",
         "usefulness": 2,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12869530"
     },
     {
-        "opinion_id": "13644265",
         "author": "t...7",
         "recommendation": true,
         "stars": 5.0,
@@ -3018,10 +3090,10 @@
         "post_date": "2020-12-24 15:02:55",
         "purchase_date": "2020-12-09 13:35:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13644265"
     },
     {
-        "opinion_id": "13547102",
         "author": "m...6",
         "recommendation": true,
         "stars": 5.0,
@@ -3037,10 +3109,10 @@
         "post_date": "2020-12-10 11:04:14",
         "purchase_date": "2020-12-01 09:53:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13547102"
     },
     {
-        "opinion_id": "13406313",
         "author": "a...z",
         "recommendation": true,
         "stars": 4.5,
@@ -3060,10 +3132,10 @@
         "post_date": "2020-11-19 12:42:10",
         "purchase_date": "2020-11-14 09:32:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13406313"
     },
     {
-        "opinion_id": "14269399",
         "author": "d...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3086,10 +3158,10 @@
         "post_date": "2021-04-11 09:11:37",
         "purchase_date": "2021-04-02 22:35:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14269399"
     },
     {
-        "opinion_id": "12955862",
         "author": "k...2",
         "recommendation": true,
         "stars": 4.5,
@@ -3100,10 +3172,10 @@
         "post_date": "2020-08-14 15:46:13",
         "purchase_date": "2020-08-09 13:16:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12955862"
     },
     {
-        "opinion_id": "13776242",
         "author": "m...l",
         "recommendation": true,
         "stars": 5.0,
@@ -3114,10 +3186,10 @@
         "post_date": "2021-01-15 08:05:47",
         "purchase_date": "2020-12-17 23:06:56",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13776242"
     },
     {
-        "opinion_id": "14266944",
         "author": "b...z",
         "recommendation": true,
         "stars": 5.0,
@@ -3140,10 +3212,10 @@
         "post_date": "2021-04-10 10:30:47",
         "purchase_date": "2021-03-26 09:47:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14266944"
     },
     {
-        "opinion_id": "14155832",
         "author": "p...i",
         "recommendation": true,
         "stars": 5.0,
@@ -3159,10 +3231,10 @@
         "post_date": "2021-03-22 08:51:45",
         "purchase_date": "2021-02-19 13:50:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14155832"
     },
     {
-        "opinion_id": "13575810",
         "author": "m...a",
         "recommendation": true,
         "stars": 4.5,
@@ -3173,10 +3245,10 @@
         "post_date": "2020-12-14 21:56:08",
         "purchase_date": "2020-11-26 12:08:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13575810"
     },
     {
-        "opinion_id": "13451401",
         "author": "d...9",
         "recommendation": true,
         "stars": 4.0,
@@ -3198,10 +3270,10 @@
         "post_date": "2020-11-26 12:25:01",
         "purchase_date": "2020-11-09 09:39:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13451401"
     },
     {
-        "opinion_id": "14280416",
         "author": "m...9",
         "recommendation": true,
         "stars": 4.5,
@@ -3212,10 +3284,10 @@
         "post_date": "2021-04-13 15:00:29",
         "purchase_date": "2021-04-07 08:02:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14280416"
     },
     {
-        "opinion_id": "14066358",
         "author": "k...v",
         "recommendation": true,
         "stars": 5.0,
@@ -3226,10 +3298,10 @@
         "post_date": "2021-03-05 15:24:50",
         "purchase_date": "2021-02-28 17:55:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14066358"
     },
     {
-        "opinion_id": "13686290",
         "author": "d...s",
         "recommendation": true,
         "stars": 5.0,
@@ -3240,10 +3312,10 @@
         "post_date": "2020-12-30 22:43:23",
         "purchase_date": "2020-12-18 10:09:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13686290"
     },
     {
-        "opinion_id": "13391442",
         "author": "m...6",
         "recommendation": true,
         "stars": 5.0,
@@ -3259,10 +3331,10 @@
         "post_date": "2020-11-17 11:44:43",
         "purchase_date": "2020-11-13 13:08:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13391442"
     },
     {
-        "opinion_id": "14022192",
         "author": "k...k",
         "recommendation": true,
         "stars": 4.0,
@@ -3285,10 +3357,10 @@
         "post_date": "2021-02-25 22:11:37",
         "purchase_date": "2021-02-11 20:03:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14022192"
     },
     {
-        "opinion_id": "13416678",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3299,10 +3371,10 @@
         "post_date": "2020-11-20 13:01:19",
         "purchase_date": "2020-11-18 12:32:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13416678"
     },
     {
-        "opinion_id": "14287748",
         "author": "u...s",
         "recommendation": true,
         "stars": 5.0,
@@ -3313,10 +3385,10 @@
         "post_date": "2021-04-14 13:38:22",
         "purchase_date": "2021-04-07 09:28:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14287748"
     },
     {
-        "opinion_id": "13154531",
         "author": "h...0",
         "recommendation": true,
         "stars": 5.0,
@@ -3332,10 +3404,10 @@
         "post_date": "2020-10-02 15:15:03",
         "purchase_date": "2020-09-23 11:12:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13154531"
     },
     {
-        "opinion_id": "13673274",
         "author": "p...z",
         "recommendation": true,
         "stars": 5.0,
@@ -3351,10 +3423,10 @@
         "post_date": "2020-12-29 19:36:01",
         "purchase_date": "2020-11-29 12:33:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13673274"
     },
     {
-        "opinion_id": "13557865",
         "author": "k...k",
         "recommendation": true,
         "stars": 5.0,
@@ -3370,10 +3442,10 @@
         "post_date": "2020-12-11 12:43:22",
         "purchase_date": "2020-11-27 09:13:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13557865"
     },
     {
-        "opinion_id": "13088548",
         "author": "a...5",
         "recommendation": true,
         "stars": 5.0,
@@ -3397,10 +3469,10 @@
         "post_date": "2020-09-16 07:50:31",
         "purchase_date": "2020-09-06 16:47:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13088548"
     },
     {
-        "opinion_id": "13600773",
         "author": "w...7",
         "recommendation": true,
         "stars": 5.0,
@@ -3423,10 +3495,10 @@
         "post_date": "2020-12-17 18:47:25",
         "purchase_date": "2020-11-17 15:32:03",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13600773"
     },
     {
-        "opinion_id": "13099132",
         "author": "Paweł",
         "recommendation": true,
         "stars": 5.0,
@@ -3442,10 +3514,10 @@
         "post_date": "2020-09-18 11:09:16",
         "purchase_date": "2020-09-14 10:54:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13099132"
     },
     {
-        "opinion_id": "13069752",
         "author": "k...f",
         "recommendation": true,
         "stars": 5.0,
@@ -3468,10 +3540,10 @@
         "post_date": "2020-09-10 17:17:57",
         "purchase_date": "2020-08-27 10:04:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13069752"
     },
     {
-        "opinion_id": "13048826",
         "author": "i...n",
         "recommendation": true,
         "stars": 5.0,
@@ -3487,10 +3559,10 @@
         "post_date": "2020-09-04 21:45:54",
         "purchase_date": "2020-08-31 21:11:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13048826"
     },
     {
-        "opinion_id": "13661751",
         "author": "t...i",
         "recommendation": true,
         "stars": 4.5,
@@ -3510,10 +3582,10 @@
         "post_date": "2020-12-28 14:08:25",
         "purchase_date": "2020-11-27 15:51:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13661751"
     },
     {
-        "opinion_id": "13608290",
         "author": "m...l",
         "recommendation": true,
         "stars": 4.5,
@@ -3529,10 +3601,10 @@
         "post_date": "2020-12-18 15:41:38",
         "purchase_date": "2020-12-16 11:32:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13608290"
     },
     {
-        "opinion_id": "13463418",
         "author": "s...2",
         "recommendation": true,
         "stars": 5.0,
@@ -3543,10 +3615,10 @@
         "post_date": "2020-11-27 22:08:50",
         "purchase_date": "2020-11-13 18:36:37",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13463418"
     },
     {
-        "opinion_id": "13400524",
         "author": "s...9",
         "recommendation": true,
         "stars": 5.0,
@@ -3562,10 +3634,10 @@
         "post_date": "2020-11-18 14:50:05",
         "purchase_date": "2020-10-27 10:02:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13400524"
     },
     {
-        "opinion_id": "13783764",
         "author": "i...p",
         "recommendation": true,
         "stars": 4.5,
@@ -3581,10 +3653,10 @@
         "post_date": "2021-01-16 09:51:25",
         "purchase_date": "2020-12-01 13:52:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13783764"
     },
     {
-        "opinion_id": "13115096",
         "author": "e...k",
         "recommendation": true,
         "stars": 5.0,
@@ -3600,10 +3672,10 @@
         "post_date": "2020-09-22 21:58:56",
         "purchase_date": "2020-09-12 11:29:47",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13115096"
     },
     {
-        "opinion_id": "13092699",
         "author": "Piotr",
         "recommendation": true,
         "stars": 5.0,
@@ -3619,10 +3691,10 @@
         "post_date": "2020-09-16 21:25:24",
         "purchase_date": "2020-09-09 20:15:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13092699"
     },
     {
-        "opinion_id": "12916431",
         "author": "b...k",
         "recommendation": true,
         "stars": 5.0,
@@ -3638,10 +3710,10 @@
         "post_date": "2020-08-07 00:31:21",
         "purchase_date": "2020-07-23 11:05:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12916431"
     },
     {
-        "opinion_id": "14086935",
         "author": "p...z",
         "recommendation": true,
         "stars": 5.0,
@@ -3657,10 +3729,10 @@
         "post_date": "2021-03-10 09:04:51",
         "purchase_date": "2021-02-27 13:41:26",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14086935"
     },
     {
-        "opinion_id": "13480824",
         "author": "j...1",
         "recommendation": true,
         "stars": 5.0,
@@ -3683,10 +3755,10 @@
         "post_date": "2020-12-01 18:28:36",
         "purchase_date": "2020-11-26 21:20:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13480824"
     },
     {
-        "opinion_id": "13173182",
         "author": "l...a",
         "recommendation": true,
         "stars": 4.5,
@@ -3708,10 +3780,10 @@
         "post_date": "2020-10-07 20:41:07",
         "purchase_date": "2020-10-03 10:49:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13173182"
     },
     {
-        "opinion_id": "13104919",
         "author": "x...4",
         "recommendation": true,
         "stars": 5.0,
@@ -3727,10 +3799,10 @@
         "post_date": "2020-09-20 11:41:39",
         "purchase_date": "2020-09-03 17:05:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13104919"
     },
     {
-        "opinion_id": "13630812",
         "author": "k...7",
         "recommendation": true,
         "stars": 4.5,
@@ -3746,10 +3818,10 @@
         "post_date": "2020-12-22 18:03:24",
         "purchase_date": "2020-12-20 13:35:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13630812"
     },
     {
-        "opinion_id": "13117508",
         "author": "v...3",
         "recommendation": true,
         "stars": 5.0,
@@ -3765,10 +3837,10 @@
         "post_date": "2020-09-23 12:36:03",
         "purchase_date": "2020-09-19 11:25:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13117508"
     },
     {
-        "opinion_id": "13742267",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3779,10 +3851,10 @@
         "post_date": "2021-01-09 23:00:23",
         "purchase_date": "2020-11-27 12:07:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13742267"
     },
     {
-        "opinion_id": "13375470",
         "author": "A...2",
         "recommendation": true,
         "stars": 5.0,
@@ -3798,10 +3870,10 @@
         "post_date": "2020-11-13 20:27:07",
         "purchase_date": "2020-11-01 20:01:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13375470"
     },
     {
-        "opinion_id": "13000319",
         "author": "p...a",
         "recommendation": true,
         "stars": 5.0,
@@ -3812,10 +3884,10 @@
         "post_date": "2020-08-25 11:11:13",
         "purchase_date": "2020-08-19 13:35:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13000319"
     },
     {
-        "opinion_id": "13725948",
         "author": "a...y",
         "recommendation": true,
         "stars": 5.0,
@@ -3831,10 +3903,10 @@
         "post_date": "2021-01-07 10:29:00",
         "purchase_date": "2020-12-21 11:26:14",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13725948"
     },
     {
-        "opinion_id": "13657485",
         "author": "m...h",
         "recommendation": true,
         "stars": 5.0,
@@ -3857,10 +3929,10 @@
         "post_date": "2020-12-27 21:19:23",
         "purchase_date": "2020-11-21 18:46:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13657485"
     },
     {
-        "opinion_id": "13336089",
         "author": "f...k",
         "recommendation": true,
         "stars": 5.0,
@@ -3876,10 +3948,10 @@
         "post_date": "2020-11-06 13:14:35",
         "purchase_date": "2020-10-03 21:11:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13336089"
     },
     {
-        "opinion_id": "13214900",
         "author": "a...0",
         "recommendation": true,
         "stars": 5.0,
@@ -3899,10 +3971,10 @@
         "post_date": "2020-10-14 23:26:21",
         "purchase_date": "2020-10-05 13:01:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13214900"
     },
     {
-        "opinion_id": "14010111",
         "author": "r...s",
         "recommendation": true,
         "stars": 4.5,
@@ -3918,10 +3990,10 @@
         "post_date": "2021-02-24 12:37:16",
         "purchase_date": "2021-01-22 12:42:14",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14010111"
     },
     {
-        "opinion_id": "14188515",
         "author": "m...0",
         "recommendation": true,
         "stars": 5.0,
@@ -3941,10 +4013,10 @@
         "post_date": "2021-03-27 10:47:52",
         "purchase_date": "2021-03-19 12:15:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14188515"
     },
     {
-        "opinion_id": "14127245",
         "author": "w...t",
         "recommendation": true,
         "stars": 5.0,
@@ -3960,10 +4032,10 @@
         "post_date": "2021-03-17 02:49:01",
         "purchase_date": "2021-03-02 10:20:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14127245"
     },
     {
-        "opinion_id": "13128039",
         "author": "Marcin",
         "recommendation": true,
         "stars": 5.0,
@@ -3979,10 +4051,10 @@
         "post_date": "2020-09-25 14:29:39",
         "purchase_date": "2020-09-18 21:06:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13128039"
     },
     {
-        "opinion_id": "12944382",
         "author": "b...9",
         "recommendation": true,
         "stars": 5.0,
@@ -4003,10 +4075,10 @@
         "post_date": "2020-08-12 16:08:37",
         "purchase_date": "2020-08-06 16:20:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12944382"
     },
     {
-        "opinion_id": "14193930",
         "author": "g...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4029,10 +4101,10 @@
         "post_date": "2021-03-28 19:50:54",
         "purchase_date": "2021-03-17 18:44:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14193930"
     },
     {
-        "opinion_id": "14127247",
         "author": "w...t",
         "recommendation": true,
         "stars": 5.0,
@@ -4051,10 +4123,10 @@
         "post_date": "2021-03-17 02:50:08",
         "purchase_date": "2021-03-02 10:20:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14127247"
     },
     {
-        "opinion_id": "13077339",
         "author": "d...5",
         "recommendation": true,
         "stars": 4.0,
@@ -4070,10 +4142,10 @@
         "post_date": "2020-09-12 22:34:16",
         "purchase_date": "2020-08-12 15:15:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13077339"
     },
     {
-        "opinion_id": "14016211",
         "author": "1...k",
         "recommendation": true,
         "stars": 5.0,
@@ -4084,10 +4156,10 @@
         "post_date": "2021-02-25 06:33:28",
         "purchase_date": "2021-02-06 15:32:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14016211"
     },
     {
-        "opinion_id": "13937493",
         "author": "a...k",
         "recommendation": true,
         "stars": 5.0,
@@ -4103,10 +4175,10 @@
         "post_date": "2021-02-11 13:22:04",
         "purchase_date": "2021-02-08 09:41:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13937493"
     },
     {
-        "opinion_id": "13602130",
         "author": "p...n",
         "recommendation": true,
         "stars": 5.0,
@@ -4122,10 +4194,10 @@
         "post_date": "2020-12-17 21:36:41",
         "purchase_date": "2020-11-26 21:21:50",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13602130"
     },
     {
-        "opinion_id": "13506749",
         "author": "m...7",
         "recommendation": true,
         "stars": 5.0,
@@ -4141,10 +4213,10 @@
         "post_date": "2020-12-04 15:45:48",
         "purchase_date": "2020-11-26 20:06:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13506749"
     },
     {
-        "opinion_id": "13444890",
         "author": "alltan",
         "recommendation": true,
         "stars": 5.0,
@@ -4160,10 +4232,10 @@
         "post_date": "2020-11-25 13:25:54",
         "purchase_date": "2020-11-14 16:02:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13444890"
     },
     {
-        "opinion_id": "13214947",
         "author": "h...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4174,10 +4246,10 @@
         "post_date": "2020-10-14 23:31:05",
         "purchase_date": "2020-10-01 17:22:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13214947"
     },
     {
-        "opinion_id": "13520379",
         "author": "m...h",
         "recommendation": true,
         "stars": 5.0,
@@ -4188,10 +4260,10 @@
         "post_date": "2020-12-07 18:10:47",
         "purchase_date": "2020-11-23 07:29:39",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13520379"
     },
     {
-        "opinion_id": "13512377",
         "author": "w...1",
         "recommendation": true,
         "stars": 5.0,
@@ -4202,10 +4274,10 @@
         "post_date": "2020-12-05 14:15:35",
         "purchase_date": "2020-11-24 21:12:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13512377"
     },
     {
-        "opinion_id": "14119032",
         "author": "lubovori",
         "recommendation": true,
         "stars": 5.0,
@@ -4216,10 +4288,10 @@
         "post_date": "2021-03-15 21:15:57",
         "purchase_date": "2021-03-03 23:45:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14119032"
     },
     {
-        "opinion_id": "13694716",
         "author": "1...a",
         "recommendation": true,
         "stars": 5.0,
@@ -4235,10 +4307,10 @@
         "post_date": "2021-01-01 17:28:56",
         "purchase_date": "2020-11-25 17:17:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13694716"
     },
     {
-        "opinion_id": "13600998",
         "author": "g...9",
         "recommendation": true,
         "stars": 5.0,
@@ -4249,10 +4321,10 @@
         "post_date": "2020-12-17 19:33:41",
         "purchase_date": "2020-12-04 15:10:06",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13600998"
     },
     {
-        "opinion_id": "13611626",
         "author": "d...1",
         "recommendation": true,
         "stars": 5.0,
@@ -4263,10 +4335,10 @@
         "post_date": "2020-12-18 21:20:49",
         "purchase_date": "2020-12-10 11:05:57",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13611626"
     },
     {
-        "opinion_id": "14210314",
         "author": "m...z",
         "recommendation": true,
         "stars": 4.5,
@@ -4282,10 +4354,10 @@
         "post_date": "2021-03-31 15:07:59",
         "purchase_date": "2021-03-24 11:20:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14210314"
     },
     {
-        "opinion_id": "14008535",
         "author": "t...1",
         "recommendation": true,
         "stars": 5.0,
@@ -4301,10 +4373,10 @@
         "post_date": "2021-02-24 10:14:47",
         "purchase_date": "2021-01-31 18:33:07",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14008535"
     },
     {
-        "opinion_id": "13466392",
         "author": "r...6",
         "recommendation": true,
         "stars": 4.5,
@@ -4320,10 +4392,10 @@
         "post_date": "2020-11-28 18:52:34",
         "purchase_date": "2020-11-25 18:32:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13466392"
     },
     {
-        "opinion_id": "13197413",
         "author": "e...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4339,10 +4411,10 @@
         "post_date": "2020-10-12 17:18:16",
         "purchase_date": "2020-09-29 23:38:38",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13197413"
     },
     {
-        "opinion_id": "13843386",
         "author": "p...r",
         "recommendation": true,
         "stars": 5.0,
@@ -4358,10 +4430,10 @@
         "post_date": "2021-01-26 22:02:55",
         "purchase_date": "2021-01-04 20:27:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13843386"
     },
     {
-        "opinion_id": "13842454",
         "author": "m...k",
         "recommendation": true,
         "stars": 5.0,
@@ -4377,10 +4449,10 @@
         "post_date": "2021-01-26 20:57:11",
         "purchase_date": "2021-01-07 15:47:49",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13842454"
     },
     {
-        "opinion_id": "13323197",
         "author": "a...s",
         "recommendation": true,
         "stars": 4.5,
@@ -4396,10 +4468,10 @@
         "post_date": "2020-11-04 15:03:37",
         "purchase_date": "2020-10-22 14:16:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13323197"
     },
     {
-        "opinion_id": "13286663",
         "author": "o...1",
         "recommendation": true,
         "stars": 5.0,
@@ -4419,10 +4491,10 @@
         "post_date": "2020-10-28 20:33:00",
         "purchase_date": "2020-10-22 15:37:53",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13286663"
     },
     {
-        "opinion_id": "13097983",
         "author": "g...5",
         "recommendation": true,
         "stars": 5.0,
@@ -4442,10 +4514,10 @@
         "post_date": "2020-09-18 00:28:44",
         "purchase_date": "2020-09-11 01:32:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13097983"
     },
     {
-        "opinion_id": "13085143",
         "author": "s...a",
         "recommendation": true,
         "stars": 5.0,
@@ -4456,10 +4528,10 @@
         "post_date": "2020-09-15 13:15:39",
         "purchase_date": "2020-09-07 22:12:58",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13085143"
     },
     {
-        "opinion_id": "13085121",
         "author": "k...t",
         "recommendation": true,
         "stars": 5.0,
@@ -4475,10 +4547,10 @@
         "post_date": "2020-09-15 13:10:20",
         "purchase_date": "2020-09-08 12:24:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13085121"
     },
     {
-        "opinion_id": "12980040",
         "author": "e...0",
         "recommendation": true,
         "stars": 4.5,
@@ -4494,10 +4566,10 @@
         "post_date": "2020-08-20 09:35:08",
         "purchase_date": "2020-08-13 11:19:36",
         "usefulness": 1,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12980040"
     },
     {
-        "opinion_id": "14258292",
         "author": "k...9",
         "recommendation": true,
         "stars": 5.0,
@@ -4517,10 +4589,10 @@
         "post_date": "2021-04-08 21:50:53",
         "purchase_date": "2021-03-31 06:34:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14258292"
     },
     {
-        "opinion_id": "14147572",
         "author": "k...i",
         "recommendation": true,
         "stars": 5.0,
@@ -4536,10 +4608,10 @@
         "post_date": "2021-03-19 15:54:54",
         "purchase_date": "2021-03-15 18:27:22",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14147572"
     },
     {
-        "opinion_id": "13346473",
         "author": "w...6",
         "recommendation": true,
         "stars": 5.0,
@@ -4555,10 +4627,10 @@
         "post_date": "2020-11-09 10:57:22",
         "purchase_date": "2020-10-22 19:46:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13346473"
     },
     {
-        "opinion_id": "14252680",
         "author": "a...9",
         "recommendation": true,
         "stars": 4.5,
@@ -4574,10 +4646,10 @@
         "post_date": "2021-04-08 11:32:13",
         "purchase_date": "2021-03-23 17:05:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14252680"
     },
     {
-        "opinion_id": "13564053",
         "author": "w...8",
         "recommendation": true,
         "stars": 5.0,
@@ -4593,10 +4665,10 @@
         "post_date": "2020-12-12 08:40:07",
         "purchase_date": "2020-11-23 11:46:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13564053"
     },
     {
-        "opinion_id": "13272468",
         "author": "t...c",
         "recommendation": true,
         "stars": 5.0,
@@ -4607,10 +4679,10 @@
         "post_date": "2020-10-26 09:33:42",
         "purchase_date": "2020-10-12 21:24:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13272468"
     },
     {
-        "opinion_id": "14063281",
         "author": "k...0",
         "recommendation": true,
         "stars": 5.0,
@@ -4621,10 +4693,10 @@
         "post_date": "2021-03-05 08:33:03",
         "purchase_date": "2021-02-11 11:09:01",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14063281"
     },
     {
-        "opinion_id": "14168125",
         "author": "v...1",
         "recommendation": true,
         "stars": 4.0,
@@ -4635,10 +4707,10 @@
         "post_date": "2021-03-24 08:02:39",
         "purchase_date": "2021-03-13 09:25:12",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14168125"
     },
     {
-        "opinion_id": "13989190",
         "author": "K...w",
         "recommendation": true,
         "stars": 4.5,
@@ -4654,10 +4726,29 @@
         "post_date": "2021-02-19 19:27:07",
         "purchase_date": "2021-01-19 11:38:34",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13989190"
     },
     {
-        "opinion_id": "14197730",
+        "author": "m...c",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Polecam",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 20:47:40",
+        "purchase_date": "2021-04-12 17:09:05",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14349289"
+    },
+    {
         "author": "b...r",
         "recommendation": true,
         "stars": 5.0,
@@ -4673,10 +4764,10 @@
         "post_date": "2021-03-29 17:52:41",
         "purchase_date": "2021-02-27 08:41:52",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14197730"
     },
     {
-        "opinion_id": "13813509",
         "author": "m...a",
         "recommendation": true,
         "stars": 5.0,
@@ -4687,10 +4778,10 @@
         "post_date": "2021-01-21 11:50:32",
         "purchase_date": "2021-01-18 08:58:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13813509"
     },
     {
-        "opinion_id": "13308141",
         "author": "p...l",
         "recommendation": true,
         "stars": 5.0,
@@ -4714,10 +4805,10 @@
         "post_date": "2020-11-02 08:42:38",
         "purchase_date": "2020-10-18 23:27:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13308141"
     },
     {
-        "opinion_id": "13213381",
         "author": "j...1",
         "recommendation": true,
         "stars": 5.0,
@@ -4733,10 +4824,29 @@
         "post_date": "2020-10-14 21:23:05",
         "purchase_date": "2020-10-04 18:53:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13213381"
     },
     {
-        "opinion_id": "13770925",
+        "author": "j...6",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 16:59:04",
+        "purchase_date": "2021-04-12 20:07:22",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14347796"
+    },
+    {
         "author": "m...7",
         "recommendation": true,
         "stars": 5.0,
@@ -4747,10 +4857,10 @@
         "post_date": "2021-01-14 14:33:36",
         "purchase_date": "2021-01-12 13:10:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13770925"
     },
     {
-        "opinion_id": "13158103",
         "author": "m...l",
         "recommendation": true,
         "stars": 5.0,
@@ -4772,10 +4882,10 @@
         "post_date": "2020-10-03 18:26:04",
         "purchase_date": "2020-09-11 10:42:21",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13158103"
     },
     {
-        "opinion_id": "14146301",
         "author": "k...3",
         "recommendation": true,
         "stars": 5.0,
@@ -4791,10 +4901,10 @@
         "post_date": "2021-03-19 12:05:43",
         "purchase_date": "2021-03-14 15:41:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14146301"
     },
     {
-        "opinion_id": "14035863",
         "author": "k...5",
         "recommendation": true,
         "stars": 5.0,
@@ -4814,10 +4924,10 @@
         "post_date": "2021-03-01 09:54:32",
         "purchase_date": "2021-02-16 21:30:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14035863"
     },
     {
-        "opinion_id": "13999017",
         "author": "M...n",
         "recommendation": true,
         "stars": 5.0,
@@ -4828,10 +4938,10 @@
         "post_date": "2021-02-22 16:31:45",
         "purchase_date": "2020-12-15 13:27:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13999017"
     },
     {
-        "opinion_id": "13953487",
         "author": "s...m",
         "recommendation": true,
         "stars": 4.5,
@@ -4847,10 +4957,10 @@
         "post_date": "2021-02-14 08:40:45",
         "purchase_date": "2021-01-31 10:39:41",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13953487"
     },
     {
-        "opinion_id": "13763958",
         "author": "m...k",
         "recommendation": true,
         "stars": 4.5,
@@ -4861,10 +4971,10 @@
         "post_date": "2021-01-13 17:43:46",
         "purchase_date": "2020-12-10 07:52:28",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13763958"
     },
     {
-        "opinion_id": "13739513",
         "author": "kudynas",
         "recommendation": true,
         "stars": 5.0,
@@ -4880,10 +4990,10 @@
         "post_date": "2021-01-08 22:07:06",
         "purchase_date": "2020-12-28 12:00:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13739513"
     },
     {
-        "opinion_id": "13561403",
         "author": "a...4",
         "recommendation": true,
         "stars": 5.0,
@@ -4899,10 +5009,10 @@
         "post_date": "2020-12-11 20:44:05",
         "purchase_date": "2020-11-26 09:46:30",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13561403"
     },
     {
-        "opinion_id": "13497374",
         "author": "r...0",
         "recommendation": true,
         "stars": 5.0,
@@ -4918,10 +5028,10 @@
         "post_date": "2020-12-03 15:02:02",
         "purchase_date": "2020-11-26 21:18:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13497374"
     },
     {
-        "opinion_id": "13363845",
         "author": "u...i",
         "recommendation": true,
         "stars": 5.0,
@@ -4937,10 +5047,10 @@
         "post_date": "2020-11-12 11:27:42",
         "purchase_date": "2020-10-19 09:02:25",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13363845"
     },
     {
-        "opinion_id": "13292504",
         "author": "d...k",
         "recommendation": true,
         "stars": 5.0,
@@ -4951,10 +5061,10 @@
         "post_date": "2020-10-29 19:01:49",
         "purchase_date": "2020-09-28 20:54:35",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13292504"
     },
     {
-        "opinion_id": "13291393",
         "author": "j...l",
         "recommendation": true,
         "stars": 5.0,
@@ -4970,10 +5080,10 @@
         "post_date": "2020-10-29 16:26:24",
         "purchase_date": "2020-10-27 14:02:08",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13291393"
     },
     {
-        "opinion_id": "13161938",
         "author": "f...p",
         "recommendation": true,
         "stars": 5.0,
@@ -4989,10 +5099,10 @@
         "post_date": "2020-10-05 17:22:10",
         "purchase_date": "2020-09-28 22:54:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13161938"
     },
     {
-        "opinion_id": "13152123",
         "author": "w...l",
         "recommendation": true,
         "stars": 5.0,
@@ -5008,10 +5118,10 @@
         "post_date": "2020-10-02 04:29:29",
         "purchase_date": "2020-09-11 07:28:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13152123"
     },
     {
-        "opinion_id": "13051406",
         "author": "k...a",
         "recommendation": true,
         "stars": 5.0,
@@ -5022,10 +5132,10 @@
         "post_date": "2020-09-06 07:20:29",
         "purchase_date": "2020-08-24 03:51:10",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13051406"
     },
     {
-        "opinion_id": "12873444",
         "author": "a...l",
         "recommendation": true,
         "stars": 5.0,
@@ -5041,10 +5151,10 @@
         "post_date": "2020-07-30 11:17:52",
         "purchase_date": "2020-07-26 18:41:20",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12873444"
     },
     {
-        "opinion_id": "14072700",
         "author": "Роман",
         "recommendation": true,
         "stars": 5.0,
@@ -5055,10 +5165,10 @@
         "post_date": "2021-03-07 10:32:15",
         "purchase_date": "2021-02-17 20:45:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14072700"
     },
     {
-        "opinion_id": "13095353",
         "author": "v...9",
         "recommendation": true,
         "stars": 5.0,
@@ -5074,10 +5184,36 @@
         "post_date": "2020-09-17 12:12:29",
         "purchase_date": "2020-09-15 18:21:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13095353"
     },
     {
-        "opinion_id": "14108074",
+        "author": "t...s",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Ok.",
+        "pros": [
+            "czas pracy na baterii",
+            "dobry ekran",
+            "funkcjonalność",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "płynnie działa",
+            "przeciętny aparat",
+            "szybkość działania",
+            "wielkość",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-20 14:01:14",
+        "purchase_date": "2021-04-11 20:31:27",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14322937"
+    },
+    {
         "author": "k...a",
         "recommendation": true,
         "stars": 4.5,
@@ -5088,10 +5224,10 @@
         "post_date": "2021-03-12 21:15:48",
         "purchase_date": "2021-02-21 21:56:51",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14108074"
     },
     {
-        "opinion_id": "14016866",
         "author": "M...1",
         "recommendation": true,
         "stars": 5.0,
@@ -5102,10 +5238,10 @@
         "post_date": "2021-02-25 08:54:16",
         "purchase_date": "2021-02-10 12:57:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14016866"
     },
     {
-        "opinion_id": "13558607",
         "author": "z...i",
         "recommendation": true,
         "stars": 5.0,
@@ -5121,10 +5257,10 @@
         "post_date": "2020-12-11 13:52:36",
         "purchase_date": "2020-12-09 14:39:11",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13558607"
     },
     {
-        "opinion_id": "13474827",
         "author": "s...z",
         "recommendation": true,
         "stars": 5.0,
@@ -5135,10 +5271,24 @@
         "post_date": "2020-11-30 22:33:53",
         "purchase_date": "2020-11-07 11:02:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13474827"
     },
     {
-        "opinion_id": "14083169",
+        "author": "j...6",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 16:58:20",
+        "purchase_date": "2021-04-12 20:07:22",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "14347792"
+    },
+    {
         "author": "m...r",
         "recommendation": true,
         "stars": 5.0,
@@ -5151,10 +5301,10 @@
         "post_date": "2021-03-09 16:38:12",
         "purchase_date": "2021-02-06 10:38:23",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14083169"
     },
     {
-        "opinion_id": "14020974",
         "author": "r...w",
         "recommendation": true,
         "stars": 5.0,
@@ -5165,10 +5315,10 @@
         "post_date": "2021-02-25 19:56:36",
         "purchase_date": "2021-02-11 13:49:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14020974"
     },
     {
-        "opinion_id": "14008091",
         "author": "m...j",
         "recommendation": true,
         "stars": 4.0,
@@ -5179,10 +5329,10 @@
         "post_date": "2021-02-24 09:21:23",
         "purchase_date": "2021-02-06 20:05:09",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "14008091"
     },
     {
-        "opinion_id": "13923095",
         "author": "r...z",
         "recommendation": true,
         "stars": 5.0,
@@ -5198,10 +5348,10 @@
         "post_date": "2021-02-09 12:11:09",
         "purchase_date": "2021-02-07 16:32:15",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13923095"
     },
     {
-        "opinion_id": "13890177",
         "author": "k...i",
         "recommendation": true,
         "stars": 4.5,
@@ -5214,10 +5364,10 @@
         "post_date": "2021-02-03 14:40:20",
         "purchase_date": "2021-01-28 19:52:04",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13890177"
     },
     {
-        "opinion_id": "13797717",
         "author": "b...1",
         "recommendation": true,
         "stars": 5.0,
@@ -5240,10 +5390,10 @@
         "post_date": "2021-01-19 12:26:08",
         "purchase_date": "2020-11-25 18:02:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13797717"
     },
     {
-        "opinion_id": "13770236",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5259,10 +5409,10 @@
         "post_date": "2021-01-14 12:42:26",
         "purchase_date": "2021-01-09 20:01:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13770236"
     },
     {
-        "opinion_id": "13660551",
         "author": "g...1",
         "recommendation": true,
         "stars": 4.5,
@@ -5273,10 +5423,10 @@
         "post_date": "2020-12-28 11:55:58",
         "purchase_date": "2020-12-23 14:05:48",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13660551"
     },
     {
-        "opinion_id": "13654060",
         "author": "m...l",
         "recommendation": true,
         "stars": 4.5,
@@ -5292,10 +5442,10 @@
         "post_date": "2020-12-26 21:50:31",
         "purchase_date": "2020-12-02 15:27:32",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13654060"
     },
     {
-        "opinion_id": "13652982",
         "author": "k...z",
         "recommendation": true,
         "stars": 5.0,
@@ -5311,10 +5461,10 @@
         "post_date": "2020-12-26 17:40:49",
         "purchase_date": "2020-11-26 08:16:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13652982"
     },
     {
-        "opinion_id": "13581454",
         "author": "c...k",
         "recommendation": true,
         "stars": 4.0,
@@ -5325,10 +5475,10 @@
         "post_date": "2020-12-15 15:23:51",
         "purchase_date": "2020-12-08 20:54:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13581454"
     },
     {
-        "opinion_id": "13489245",
         "author": "a...k",
         "recommendation": true,
         "stars": 5.0,
@@ -5339,10 +5489,10 @@
         "post_date": "2020-12-02 16:14:37",
         "purchase_date": "2020-11-25 18:41:00",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13489245"
     },
     {
-        "opinion_id": "13470948",
         "author": "i...i",
         "recommendation": true,
         "stars": 5.0,
@@ -5353,10 +5503,10 @@
         "post_date": "2020-11-30 11:56:04",
         "purchase_date": "2020-11-24 11:00:05",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13470948"
     },
     {
-        "opinion_id": "13466122",
         "author": "j...4",
         "recommendation": true,
         "stars": 5.0,
@@ -5367,10 +5517,10 @@
         "post_date": "2020-11-28 17:43:24",
         "purchase_date": "2020-11-17 07:31:40",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13466122"
     },
     {
-        "opinion_id": "13451684",
         "author": "g...s",
         "recommendation": true,
         "stars": 5.0,
@@ -5386,10 +5536,10 @@
         "post_date": "2020-11-26 13:01:55",
         "purchase_date": "2020-11-19 21:57:16",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13451684"
     },
     {
-        "opinion_id": "13416500",
         "author": "l...l",
         "recommendation": true,
         "stars": 5.0,
@@ -5400,10 +5550,10 @@
         "post_date": "2020-11-20 12:38:04",
         "purchase_date": "2020-11-17 13:00:18",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13416500"
     },
     {
-        "opinion_id": "13328373",
         "author": "w...9",
         "recommendation": true,
         "stars": 4.0,
@@ -5419,10 +5569,10 @@
         "post_date": "2020-11-05 14:53:02",
         "purchase_date": "2020-10-29 12:05:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13328373"
     },
     {
-        "opinion_id": "13320360",
         "author": "t...k",
         "recommendation": true,
         "stars": 4.0,
@@ -5438,10 +5588,10 @@
         "post_date": "2020-11-04 09:28:37",
         "purchase_date": "2020-10-27 11:16:42",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13320360"
     },
     {
-        "opinion_id": "13305745",
         "author": "k...3",
         "recommendation": null,
         "stars": 3.5,
@@ -5457,10 +5607,10 @@
         "post_date": "2020-11-01 08:01:02",
         "purchase_date": "2020-10-18 10:17:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13305745"
     },
     {
-        "opinion_id": "13303713",
         "author": "k...k",
         "recommendation": true,
         "stars": 5.0,
@@ -5476,10 +5626,10 @@
         "post_date": "2020-10-31 12:22:28",
         "purchase_date": "2020-10-21 18:12:44",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13303713"
     },
     {
-        "opinion_id": "13216207",
         "author": "Rostom",
         "recommendation": true,
         "stars": 5.0,
@@ -5490,10 +5640,10 @@
         "post_date": "2020-10-15 08:32:02",
         "purchase_date": "2020-09-12 21:04:02",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13216207"
     },
     {
-        "opinion_id": "13174173",
         "author": "i...k",
         "recommendation": true,
         "stars": 4.0,
@@ -5504,10 +5654,10 @@
         "post_date": "2020-10-07 22:18:29",
         "purchase_date": "2020-09-16 13:07:45",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13174173"
     },
     {
-        "opinion_id": "13148043",
         "author": "r...6",
         "recommendation": true,
         "stars": 4.5,
@@ -5518,10 +5668,10 @@
         "post_date": "2020-10-01 06:42:49",
         "purchase_date": "2020-09-18 20:45:27",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13148043"
     },
     {
-        "opinion_id": "13131877",
         "author": "t...4",
         "recommendation": true,
         "stars": 4.5,
@@ -5537,10 +5687,10 @@
         "post_date": "2020-09-26 19:06:04",
         "purchase_date": "2020-08-26 11:04:36",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13131877"
     },
     {
-        "opinion_id": "13036696",
         "author": "t...n",
         "recommendation": true,
         "stars": 5.0,
@@ -5556,10 +5706,10 @@
         "post_date": "2020-09-02 13:15:28",
         "purchase_date": "2020-08-27 21:06:43",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13036696"
     },
     {
-        "opinion_id": "13036273",
         "author": "j...k",
         "recommendation": true,
         "stars": 4.5,
@@ -5570,10 +5720,10 @@
         "post_date": "2020-09-02 12:12:52",
         "purchase_date": "2020-08-27 21:39:13",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13036273"
     },
     {
-        "opinion_id": "13012663",
         "author": "m...l",
         "recommendation": true,
         "stars": 4.5,
@@ -5589,10 +5739,10 @@
         "post_date": "2020-08-27 11:51:43",
         "purchase_date": "2020-07-27 11:59:33",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13012663"
     },
     {
-        "opinion_id": "12986378",
         "author": "a...7",
         "recommendation": true,
         "stars": 5.0,
@@ -5608,10 +5758,10 @@
         "post_date": "2020-08-21 11:10:04",
         "purchase_date": "2020-08-18 14:17:59",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12986378"
     },
     {
-        "opinion_id": "12922928",
         "author": "m...6",
         "recommendation": true,
         "stars": 5.0,
@@ -5622,10 +5772,10 @@
         "post_date": "2020-08-08 05:58:05",
         "purchase_date": "2020-07-27 12:45:11",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12922928"
     },
     {
-        "opinion_id": "12886928",
         "author": "g...t",
         "recommendation": true,
         "stars": 5.0,
@@ -5636,10 +5786,24 @@
         "post_date": "2020-08-02 09:08:21",
         "purchase_date": "2020-07-26 20:20:30",
         "usefulness": 0,
-        "uselessness": 1
+        "uselessness": 1,
+        "opinion_id": "12886928"
     },
     {
-        "opinion_id": "12825027",
+        "author": "g...c",
+        "recommendation": false,
+        "stars": 1.0,
+        "content": "Nie wiem,nie otrzymałem",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2020-12-08 17:22:20",
+        "purchase_date": "2020-12-01 11:50:21",
+        "usefulness": 0,
+        "uselessness": 0,
+        "opinion_id": "13528348"
+    },
+    {
         "author": "Użytkownik Ceneo",
         "recommendation": true,
         "stars": 5.0,
@@ -5655,24 +5819,10 @@
         "post_date": "2020-07-19 18:07:46",
         "purchase_date": null,
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "12825027"
     },
     {
-        "opinion_id": "13528348",
-        "author": "g...c",
-        "recommendation": false,
-        "stars": 1.0,
-        "content": "Nie wiem,nie otrzymałem",
-        "pros": [],
-        "cons": [],
-        "verified": true,
-        "post_date": "2020-12-08 17:22:20",
-        "purchase_date": "2020-12-01 11:50:21",
-        "usefulness": 0,
-        "uselessness": 0
-    },
-    {
-        "opinion_id": "13592684",
         "author": "K...1",
         "recommendation": false,
         "stars": 1.0,
@@ -5683,6 +5833,7 @@
         "post_date": "2020-12-16 18:53:54",
         "purchase_date": "2020-12-01 16:30:55",
         "usefulness": 0,
-        "uselessness": 0
+        "uselessness": 0,
+        "opinion_id": "13592684"
     }
 ]
